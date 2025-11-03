@@ -1,0 +1,5 @@
+[book]
+authors = ["lynn"]
+language = "en"
+src = "src"
+title = "algocourses-solutions"
