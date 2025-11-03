@@ -3,3 +3,6 @@ authors = ["lynn"]
 language = "en"
 src = "src"
 title = "algocourses-solutions"
+
+[output.html]
+mathjax-support = true
