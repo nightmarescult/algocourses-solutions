@@ -6,3 +6,6 @@ title = "algocourses-solutions"
 
 [output.html]
 mathjax-support = true
+
+[output.html.code.hidelines]
+python = "@"
