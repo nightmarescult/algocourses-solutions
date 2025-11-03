@@ -8,4 +8,4 @@ title = "algocourses-solutions"
 mathjax-support = true
 
 [output.html.code.hidelines]
-python = "@"
+cpp = "@"
