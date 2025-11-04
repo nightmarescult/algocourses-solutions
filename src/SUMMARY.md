@@ -4,7 +4,7 @@
 - [A. Правильная круглоскобочная последовательность](./containers/pksp.md)
 - [B. Правильная скобочная последовательность](./containers/psp.md)
 - [C. Постфиксная запись](./containers/polish_notation.md)
-- [D. Стек с минимумом.](./containers/stackwithminimum.md)
+- [D. Стек с минимумом](./containers/stackwithminimum.md)
 - [E. Очередь с минимумом](./containers/queuewithminimum.md)
 - [F. Шарики](./containers/balls.md)
 - [G. Сплоченность в  IT](./containers/it.md)
